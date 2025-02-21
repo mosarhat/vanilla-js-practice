@@ -5,6 +5,8 @@ The following is going to be broken down into three parts:
 1. Document
 2. Events
 
+Make a To-Do List, and make a basic static page that persistently displays real-time updates to the Sens players.
+
 ---
 
 ## 1. Real-Time Chat Application
