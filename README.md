@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="0_assets/1.jpg"></img>
+</div>
+
 # Vanilla JS Personal Documentation
 
 The following is going to be broken down into three parts:
